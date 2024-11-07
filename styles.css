@@ -28,3 +28,7 @@ section.bio p {
     border-radius: 5px;
     transition: 0.3ms ease;
 }
+
+.links .btn:hover {
+    background-color: #FFD700;
+}
